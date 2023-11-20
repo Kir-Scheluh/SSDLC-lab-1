@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rH1diBey8MlEM4y40e5f0db9y0DMZ6iU4z6alUo7DXesqeby6WKgnD52yhJwtpcs7zoUJWsF6swepVqqkONqA==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\Универ\\разработка безопасного ПО\\Практика 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
